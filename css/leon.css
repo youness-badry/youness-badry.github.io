@@ -40,6 +40,9 @@ body {
     margin-right: auto;
 }
 
+html {
+    scroll-behavior: smooth;
+}
 /* Small */
 
 @media (min-width: 768px) {
